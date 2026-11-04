@@ -37,7 +37,7 @@ Usar tecnologia ou IA não é automaticamente bom nem ruim. O que importa é a a
 
 ### Fases de cada rodada
 
-`Sala de espera` → `Análise de cenário` → `Justificativa` → `Resultado` → `Encerramento`
+`Sala de espera` → `Classificação` → `Justificativa` → `Resultado` → `Encerramento`
 
 ---
 
@@ -57,21 +57,6 @@ O estudante também pode **entrar no meio da partida**.
 
 O jogo traz um banco com **16 cenários**: 8 de esforço cognitivo e 8 de dependência cognitiva. Eles falam de situações como resumir um texto, resolver um problema de matemática, escrever um rascunho antes de pedir revisão à IA, copiar e colar um parágrafo de um chatbot ou deixar de checar uma informação.
 
-Em cada cenário o estudante pode:
-
-- classificar como **esforço**, **dependência** ou **depende do contexto**;
-- indicar se **quer discutir** o caso com a turma;
-- escolher, entre **três opções**, a justificativa que melhor explica a classificação.
-
-Cada cenário traz, para uso do professor:
-
-- uma explicação curta da resposta esperada;
-- uma pergunta de reflexão para o debate;
-- uma nota pedagógica de cuidado;
-- um critério principal de análise: **autoria**, **elaboração**, **decisão**, **verificação** ou **conexão**.
-
-Nos cenários de dependência cognitiva, há ainda opções de **reparação**: como refazer a tarefa para recuperar o esforço de pensar.
-
 ---
 
 ## Sugestão de uso
@@ -79,8 +64,9 @@ Nos cenários de dependência cognitiva, há ainda opções de **reparação**: 
 1. Antes do jogo, apresente a diferença entre esforço e dependência cognitiva.
 2. Abra a sala e compartilhe o código com a turma.
 3. Rode a dinâmica. Com 50 minutos de aula, o padrão de 8 cenários costuma ser o mais seguro.
-4. Use as perguntas de reflexão dos cenários mais discutidos no fechamento.
-5. Deixe a pergunta final com a turma: **com o que a IA pode ajudar e o que ela não pode substituir?**
+4. Reserve os minutos finais para uma conversa guiada, sem registro obrigatório. Sugestões de perguntas:
+    - Que cenário mais fez a turma discordar? Por quê?
+    - Que sinal ajuda a perceber que a ferramenta está pensando no nosso lugar?
 
 ---
 
